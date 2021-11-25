@@ -12,9 +12,9 @@
 
 **AnimePiracy**
 
+* [Awesome-anime-sources](https://github.com/anshumanv/awesome-anime-sources)
 * [Piracy.moe](https://piracy.moe/)
 * [Wiki-AnimePiracy](https://wiki.piracy.moe/)
-* [Awesome-anime-sources](https://github.com/anshumanv/awesome-anime-sources)
 
 **Awesome Piracy**
 * [awesome-piracy](https://github.com/Igglybuff/awesome-piracy/)

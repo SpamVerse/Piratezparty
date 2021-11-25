@@ -5,22 +5,22 @@ All the information on this website is purely for informational purposes and is 
 # Contents
 ## Privacy
 
+* **[Antivirus](https://github.com/SpamVerse/Piratezparty/blob/main/Antivirus.md)**
 * **[Mails](https://github.com/Piratezparty/Piratezparty/blob/main/Mails.md)**
 * **[Vpn](https://github.com/SpamVerse/Piratezparty/blob/main/VPN.md)**
-* **[Antivirus](https://github.com/SpamVerse/Piratezparty/blob/main/Antivirus.md)**
 
 ***
 ***
 
 ## Entertainment
 
-* **[Movies/Series](https://github.com/Piratezparty/Piratezparty/blob/main/Movie-Series.md)**
 * **[Anime](https://github.com/Piratezparty/Piratezparty/blob/main/Anime.md)**
-* **[Sports](https://github.com/Piratezparty/Piratezparty/blob/main/Sports.md)**
-* **[Games](https://github.com/Piratezparty/Piratezparty/blob/main/Games.md)**
-* **[Songs](https://github.com/Piratezparty/Piratezparty/blob/main/Songs.md)**
 * **[Cartoons](https://github.com/Piratezparty/Piratezparty/blob/main/Cartoons.md)**
 * **[Drama](https://github.com/Piratezparty/Piratezparty/blob/main/Drama.md)**
+* **[Games](https://github.com/Piratezparty/Piratezparty/blob/main/Games.md)**
+* **[Movies/Series](https://github.com/Piratezparty/Piratezparty/blob/main/Movie-Series.md)**
+* **[Songs](https://github.com/Piratezparty/Piratezparty/blob/main/Songs.md)**
+* **[Sports](https://github.com/Piratezparty/Piratezparty/blob/main/Sports.md)**
 
 ***
 ***
@@ -28,23 +28,23 @@ All the information on this website is purely for informational purposes and is 
 ## Reading-Education
 
 * **[Books](https://github.com/Piratezparty/Piratezparty/blob/main/Books.md)**
-* **[Manga / Manhwa / Manhua](https://github.com/Piratezparty/Piratezparty/blob/main/Manga-Manhwa-Manhua.md)**
 * **[Courses](https://github.com/Piratezparty/Piratezparty/blob/main/Courses.md)**
 * **[Light Novels](https://github.com/Piratezparty/Piratezparty/blob/main/LightNovel.md)**
+* **[Manga / Manhwa / Manhua](https://github.com/Piratezparty/Piratezparty/blob/main/Manga-Manhwa-Manhua.md)**
 
 ***
 ***
 
 ## Tools
 
-* **[Entertainment Tools](https://github.com/Piratezparty/Piratezparty/blob/main/Entertainment-Tools.md)**
 * **[Audio Tools](https://github.com/Piratezparty/Piratezparty/blob/main/Audio-Tools.md)**
-* **[Encoding Tools](https://github.com/Piratezparty/Piratezparty/blob/main/Encoding-Tools.md)**
-* **[Reading](https://github.com/Piratezparty/Piratezparty/blob/main/Reading-Tools.md)**
-* **[Colab](https://github.com/Piratezparty/Piratezparty/blob/main/Colab.md)**
-* **[Torrents](https://github.com/Piratezparty/Piratezparty/blob/main/Torrent-Tools.md)**
-* **[Media Managers](https://github.com/Piratezparty/Piratezparty/blob/main/MediaManagers-Tools.md)**
 * **[Cloning Tools](https://github.com/Piratezparty/Piratezparty/blob/main/Cloning-Tools.md)**
+* **[Colab](https://github.com/Piratezparty/Piratezparty/blob/main/Colab.md)**
+* **[Encoding Tools](https://github.com/Piratezparty/Piratezparty/blob/main/Encoding-Tools.md)**
+* **[Entertainment Tools](https://github.com/Piratezparty/Piratezparty/blob/main/Entertainment-Tools.md)**
+* **[Media Managers](https://github.com/Piratezparty/Piratezparty/blob/main/MediaManagers-Tools.md)**
+* **[Reading](https://github.com/Piratezparty/Piratezparty/blob/main/Reading-Tools.md)**
+* **[Torrents](https://github.com/Piratezparty/Piratezparty/blob/main/Torrent-Tools.md)**
 
 ***
 ***
@@ -52,9 +52,9 @@ All the information on this website is purely for informational purposes and is 
 ## Mobile-PC
 
 * **[Anime / Manga](https://github.com/Piratezparty/Piratezparty/blob/main/Anime-Manga-Apps.md)**
+* **[Light Novels](https://github.com/Piratezparty/Piratezparty/blob/main/LightNovel-Apps.md)**
 * **[Mods / Cracks](https://github.com/Piratezparty/Piratezparty/blob/main/Mods-Cracks.md)**
 * **[Music](https://github.com/Piratezparty/Piratezparty/blob/main/Music-Apps.md)**
-* **[Light Novels](https://github.com/Piratezparty/Piratezparty/blob/main/LightNovel-Apps.md)**
 
 ***
 ***
@@ -71,38 +71,38 @@ All the information on this website is purely for informational purposes and is 
 ## Awesome-Collection
 
 * **[General](https://github.com/Piratezparty/Piratezparty/blob/main/General-Awesome-Collection.md)**
-* **[Warez](https://github.com/Piratezparty/Piratezparty/blob/main/Warez-Collection.md)**
 * **[Reddit](https://github.com/Piratezparty/Piratezparty/blob/main/Awesome-Reddit.md)**
+* **[Warez](https://github.com/Piratezparty/Piratezparty/blob/main/Warez-Collection.md)**
 
 ***
 ***
 
 ## NSFW
 
-* **[Prun](https://github.com/Piratezparty/Piratezparty/blob/main/Prun.md)**
 * **[Hemtai](https://github.com/Piratezparty/Piratezparty/blob/main/hemtai.md)**
 * **[Pornhwa](https://github.com/Piratezparty/Piratezparty/blob/main/Pornhwa.md)**
+* **[Prun](https://github.com/Piratezparty/Piratezparty/blob/main/Prun.md)**
 
 ***
 ***
 
 ## Telegram
 
-* **[Mods / Cracks](https://github.com/Piratezparty/Piratezparty/blob/main/Mods-Cracks-TG.md)**
-* **[Photos / Fonts](https://github.com/Piratezparty/Piratezparty/blob/main/Photo-Fonts-tg.md)**
-* **[Music](https://github.com/Piratezparty/Piratezparty/blob/main/Music-TG.md)**
-* **[Cartoons](https://github.com/Piratezparty/Piratezparty/blob/main/Cartoons-TG.md)**
-* **[Drama](https://github.com/Piratezparty/Piratezparty/blob/main/Drama-TG.md)**
 * **[Books](https://github.com/Piratezparty/Piratezparty/blob/main/Books-TG.md)**
+* **[Cartoons](https://github.com/Piratezparty/Piratezparty/blob/main/Cartoons-TG.md)**
 * **[Courses](https://github.com/Piratezparty/Piratezparty/blob/main/Courses-TG.md)**
+* **[Drama](https://github.com/Piratezparty/Piratezparty/blob/main/Drama-TG.md)**
+* **[Mods / Cracks](https://github.com/Piratezparty/Piratezparty/blob/main/Mods-Cracks-TG.md)**
+* **[Music](https://github.com/Piratezparty/Piratezparty/blob/main/Music-TG.md)**
+* **[Photos / Fonts](https://github.com/Piratezparty/Piratezparty/blob/main/Photo-Fonts-tg.md)**
 
 ***
 ***
 
 ## Miscellaneous
 
-* **[Photos / Fonts](https://github.com/Piratezparty/Piratezparty/blob/main/Photo-Fonts.md)**
 * **[Opendirectories](https://github.com/Piratezparty/Piratezparty/blob/main/Opendirectories.md)**
+* **[Photos / Fonts](https://github.com/Piratezparty/Piratezparty/blob/main/Photo-Fonts.md)**
 * **[Torrent-aggregators](https://github.com/Piratezparty/Piratezparty/blob/main/Torrent-aggregators.md)**
 
 ***
