@@ -3,7 +3,6 @@
 * [AnimeTwist](https://github.com/simrat39/AnimeTwistFlut)
 * [AnimeWorld](https://github.com/jakepurple13/AnimeWorld)
 * [Shiroapp-fork](https://github.com/deceptions/no)
-* [Taiyaki](https://github.com/TaiyakiContainer/TaiYaKiAnime)
 * [AnimeXstream](https://github.com/mukul500/AnimeXStream/)
 * [FireAnime](https://github.com/XenTeckzX/FireAnime) - Android TV
 * [AnimeBoya](https://github.com/Tu2l/AnimeBoya)
