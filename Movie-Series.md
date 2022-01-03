@@ -169,3 +169,7 @@
 * [Movieslegacy](http://Movieslegacy.com)
 * [x265lk](https://x265lk.com/)
 * [mnfencode](https://mnfencode.me/)
+
+# ► Exclusive website for WEB/TV Series Subtitles
+
+* [Addic7ed](https://www.addic7ed.com/)
