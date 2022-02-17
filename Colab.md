@@ -21,3 +21,5 @@
 * [FFMPEG For Colab](https://github.com/cheems/FFmpeg-for-GDrive) - Run FFMPEG on Colab with Files Mounted from Gdrive.
 
 * [HandBrakeCLI-ColabNotebook](https://github.com/SKGHD/Handy) - HandbrakeCLI with Files Mounted from Gdrive.
+
+* [FastColabCopy](https://github.com/L0garithmic/FastColabCopy) - Python3 script to transfer files in Google Colab 10-50x faster.
