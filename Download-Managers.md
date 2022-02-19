@@ -13,6 +13,7 @@
 | [FireDM](https://github.com/firedm/FireDM) | ![](https://img.shields.io/github/last-commit/firedm/FireDM) | ✔ | ❌ | ✔ | ❌ |
 | [Xtreme DM](https://xtremedownloadmanager.com) <sup> [Github](https://github.com/subhra74/xdm) </sup> | ![](https://img.shields.io/github/last-commit/subhra74/xdm) | ✔ | ❌ | ✔ | ❌ |
 | [uGet](http://ugetdm.com) <sup> [Source](https://sourceforge.net/p/urlget/uget2/ci/master/tree)  || ✔ | ❌ | ✔ | ✔ |
+| [HTTP Downloader](https://erickutcher.github.io/#HTTP_Downloader) <sup> [GitHub](https://github.com/erickutcher/httpdownloader) | ![](https://img.shields.io/github/last-commit/erickutcher/httpdownloader) | ✔ | ❌ | ❌ | ❌ |
 | [Internet DM](https://www.internetdownloadmanager.com) | | ✔ | ❌ | ❌ | ❌ |
 | [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) | ![](https://img.shields.io/github/last-commit/KurtBestor/Hitomi-Downloader) | ✔ | ❌ | ❌ | ❌ |
 | [AM Downloader](https://github.com/antikmozib/AM-Downloader) | ![](https://img.shields.io/github/last-commit/antikmozib/AM-Downloader) | ✔ | ❌ | ❌ | ❌ |
