@@ -5,7 +5,7 @@
 * [z-lib](https://z-lib.org/)
 * [pdfroom](https://pdfroom.com)
 * [bookfi](https://en.bookfi.net)
-* [sci-hub](https://sci-hub.tw)
+* [sci-hub](https://sci-hub.se)
 * [gutenberg](https://www.gutenberg.org)
 * [pdfdrive](https://pdfdrive.com)
 * [openlibrary](https://openlibrary.org)
