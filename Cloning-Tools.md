@@ -18,16 +18,16 @@
 | [ODrive](https://github.com/liberodark/ODrive) | ✔ | ✔ | ✔ | ❌ | ❌ | ❌ | ✔ | Free
 | [WebDrive](https://webdrive.com) | ✔ | ✔ | ❌ | ❌ | ❌ | ✔ | ❌ | [Free/10d <br> $39.95/life + <br> 20*(years of support)](https://webdrive.com/purchase/)
 | [multcloud](https://www.multcloud.com) | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ❌ | [Free/life <br> $4.99/mo <br> $8.33/mo](https://www.multcloud.com/price)
-| [SFTP Drive](https://www.nsoftware.com/sftp/drive) | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Netdrive](https://www.netdrive.net) | ❌ | ✔ | ❌ | ✔ | ✔ | ❌ | ❌ |
-| [Aircluster](https://www.aircluster.org/en) | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [s3drive](https://www.nsoftware.com/drive/s3drive) | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Goodsync](https://www.goodsync.com) | ✔ | ✔ | ✔ | ✔ | ✔ | ❌ | ❌ |
-| [cloudhq](https://www.cloudhq.net) | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ❌ |
-| [cloudevo](https://www.evorim.com/en/cloudevo) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ❌ |
-| [s3browser](https://s3browser.com) | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Mixplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691) | ❌ | ❌ | ❌ | ✔ | ❌ | ❌ | ❌ |
-| [mover](https://mover.io) | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ❌ |
+| [SFTP Drive](https://www.nsoftware.com/sftp/drive) | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | [Free <br> $29/life](https://www.nsoftware.com/sftp/drive/order.aspx)
+| [Netdrive](https://www.netdrive.net) | ✔ | ✔ | ✔ | ✔ | ✔ | ❌ | ❌ | [Free/7d <br> $21.90/yr <br> $49.95/life](https://www.netdrive.net/store/)
+| [Aircluster](https://www.aircluster.org/en) | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | [Free <br> $36/life <br> $25/2yr <br> $17/yr](https://www.aircluster.org/en/pro-version/)
+| [s3drive](https://www.nsoftware.com/drive/s3drive) | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | [Free <br> $29/life](https://www.nsoftware.com/drive/s3drive/order.aspx)
+| [Goodsync](https://www.goodsync.com) | ✔ | ✔ | ✔ | ✔ | ✔ | ❌ | ❌ | [Free/life <br> $22.45/5 devices/yr](https://www.goodsync.com/php/pums/rfprepay.php?lic=goodsync&lang=en)
+| [cloudhq](https://www.cloudhq.net) | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ❌ | [Free/life <br> $118/user <br> $300/4 users](https://www.cloudhq.net/g_suite/pricing)
+| [cloudevo](https://www.evorim.com/en/cloudevo) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ❌ | Free
+| [s3browser](https://s3browser.com) | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | [Free/life <br> $29.99/life](https://s3browser.com/buypro.aspx)
+| [Mixplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691) | ❌ | ❌ | ❌ | ✔ | ❌ | ❌ | ❌ | Free
+| [mover](https://mover.io) | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ❌ | Free
 
 ## CLI TOOLS
 
