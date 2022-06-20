@@ -1,23 +1,23 @@
 # Mounting/Copying Tools
 ## GUI TOOLS
 
-| App Name | Windows | MacOS | Linux | Android | iOS | Web | CLI
-|-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| [Rclone Browser](https://github.com/kapitainsky/RcloneBrowser) | ✔ | ✔ | ✔ | ❌ | ❌ | ❌ | ❌ |
-| [Airexplorer](https://www.airexplorer.net/en) | ✔ | ✔ | ❌ | ✔ | ❌ | ❌ | ❌ |
-| [Expandrive](https://www.expandrive.com) | ✔ | ✔ | ✔ | ❌ | ❌ | ❌ | ❌ |
-| [Strongsync](https://www.expandrive.com/strongsync) | ❌ | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Raidrive](https://www.raidrive.com) | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Mountainduck](https://mountainduck.io) | ✔ | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Cyberduck](https://cyberduck.io) | ✔ | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Airlivedrive](https://www.airlivedrive.com/en) | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [x0b/rcx](https://github.com/x0b/rcx) | ❌ | ❌ | ❌ | ✔ | ❌ | ❌ | ❌ |
-| [odrive](https://www.odrive.com/homepage5b) | ✔ | ✔ | ✔ | ❌ | ❌ | ❌ | ❌ |
-| [insynchq](https://www.insynchq.com) | ✔ | ✔ | ✔ | ❌ | ❌ | ❌ | ❌ |
-| [carotdav](http://rei.to/carotdav_en.html) | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [ODrive](https://github.com/liberodark/ODrive) | ✔ | ✔ | ✔ | ❌ | ❌ | ❌ | ✔ |
-| [WebDrive](https://webdrive.com) | ✔ | ✔ | ❌ | ❌ | ❌ | ✔ | ❌ |
-| [multcloud](https://www.multcloud.com) | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ❌ |
+| App Name | Windows | MacOS | Linux | Android | iOS | Web | CLI | Price
+|-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| [Rclone Browser](https://github.com/kapitainsky/RcloneBrowser) | ✔ | ✔ | ✔ | ❌ | ❌ | ❌ | ❌ | Free |
+| [Airexplorer](https://www.airexplorer.net/en) | ✔ | ✔ | ❌ | ✔ | ❌ | ❌ | ❌ | [Free/life <br> $36/life <br> $25/2yr <br> $18/yr](https://www.airexplorer.net/en/pro/)
+| [Expandrive](https://www.expandrive.com) | ✔ | ✔ | ✔ | ❌ | ❌ | ❌ | ❌ | [Free/7d <br> $49.95/yr1 then $24.95/yr <br> $74.85/life](https://www.expandrive.com/desktop/buy/)
+| [Strongsync](https://www.expandrive.com/strongsync) | ❌ | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | [Free/7d <br> $49.95/yr1 then $24.95/yr <br> $99/life](https://www.expandrive.com/strongsync/buy/)
+| [Raidrive](https://www.raidrive.com) | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | [Free/life <br> $2/mo (7d trial)](https://www.raidrive.com/plans)
+| [Mountainduck](https://mountainduck.io) | ✔ | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | [Free/life <br> $39/life](https://mountainduck.io/buy/)
+| [Cyberduck](https://cyberduck.io) | ✔ | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | [Free/life <br> $10 (donate)](https://cyberduck.io/donate/)
+| [Airlivedrive](https://www.airlivedrive.com/en) | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | [Free/life <br> $25/life <br> $17/yr](https://www.airlivedrive.com/en/pro-version/)
+| [x0b/rcx](https://github.com/x0b/rcx) | ❌ | ❌ | ❌ | ✔ | ❌ | ❌ | ❌ | Free
+| [odrive](https://www.odrive.com/homepage5b) | ✔ | ✔ | ✔ | ❌ | ❌ | ❌ | ❌ | [Free/7d <br> $8.25/mo](https://www.odrive.com/upgrade)
+| [insynchq](https://www.insynchq.com) | ✔ | ✔ | ✔ | ❌ | ❌ | ❌ | ❌ | [Free/15d <br> $29.99/$39.99/$59.99/$59.99 <br> (one-time payment)](https://www.insynchq.com/pricing)
+| [carotdav](http://rei.to/carotdav_en.html) | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Free
+| [ODrive](https://github.com/liberodark/ODrive) | ✔ | ✔ | ✔ | ❌ | ❌ | ❌ | ✔ | Free
+| [WebDrive](https://webdrive.com) | ✔ | ✔ | ❌ | ❌ | ❌ | ✔ | ❌ | [Free/10d <br> $39.95/life + <br> 20*(years of support)](https://webdrive.com/purchase/)
+| [multcloud](https://www.multcloud.com) | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ❌ | [Free/life <br> $4.99/mo <br> $8.33/mo](https://www.multcloud.com/price)
 | [SFTP Drive](https://www.nsoftware.com/sftp/drive) | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Netdrive](https://www.netdrive.net) | ❌ | ✔ | ❌ | ✔ | ✔ | ❌ | ❌ |
 | [Aircluster](https://www.aircluster.org/en) | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
