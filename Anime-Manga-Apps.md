@@ -7,13 +7,11 @@
 | [CloudStream-3](https://github.com/LagradOst/CloudStream-3) | ![Last Commit](https://img.shields.io/github/last-commit/LagradOst/CloudStream-3) | ![Freq](https://img.shields.io/github/commit-activity/m/LagradOst/CloudStream-3) |
 | [Aniyomi](https://github.com/jmir1/aniyomi) | ![Last Commit](https://img.shields.io/github/last-commit/jmir1/aniyomi) | ![Freq](https://img.shields.io/github/commit-activity/m/jmir1/aniyomi) |
 | [AnimeDL](https://github.com/sharn25/Anime-DL-Android-Verison) | ![Last Commit](https://img.shields.io/github/last-commit/sharn25/Anime-DL-Android-Verison) | ![Freq](https://img.shields.io/github/commit-activity/m/sharn25/Anime-DL-Android-Verison) |
-| [AnimeTwist](https://github.com/simrat39/AnimeTwistFlut) | ![Last Commit](https://img.shields.io/github/last-commit/simrat39/AnimeTwistFlut) | ![Freq](https://img.shields.io/github/commit-activity/m/simrat39/AnimeTwistFlut) |
 | [OtakuWorld](https://github.com/jakepurple13/OtakuWorld) | ![Last Commit](https://img.shields.io/github/last-commit/jakepurple13/OtakuWorld) | ![Freq](https://img.shields.io/github/commit-activity/m/jakepurple13/OtakuWorld) |
 | [Kuro (Shiroapp Fork)](https://github.com/deceptions/no) | ![Last Commit](https://img.shields.io/github/last-commit/deceptions/no) | ![Freq](https://img.shields.io/github/commit-activity/m/deceptions/no) |
 | [Taiyaki (Archived Project)](https://github.com/TaiyakiContainer/TaiYaKiAnime) | ![Last Commit](https://img.shields.io/github/last-commit/TaiyakiContainer/TaiYaKiAnime) | ![Freq](https://img.shields.io/github/commit-activity/m/TaiyakiContainer/TaiYaKiAnime) |
 | [AnimeXStream](https://github.com/mukul500/AnimeXStream) | ![Last Commit](https://img.shields.io/github/last-commit/mukul500/AnimeXStream) | ![Freq](https://img.shields.io/github/commit-activity/m/mukul500/AnimeXStream) |
 | [Kayuri (AnimeXStream Fork)](https://github.com/Killerpac/Kayuri) | ![Last Commit](https://img.shields.io/github/last-commit/Killerpac/Kayuri) | ![Freq](https://img.shields.io/github/commit-activity/m/Killerpac/Kayuri) |
-| [AnimeBoya](https://github.com/Tu2l/AnimeBoya) | ![Last Commit](https://img.shields.io/github/last-commit/Tu2l/AnimeBoya) | ![Freq](https://img.shields.io/github/commit-activity/m/Tu2l/AnimeBoya) |
 | [AnimeOut](https://www.animeout.xyz/progress-and-update-on-the-desktop-mobile-apps-and-new-platform/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
 
 ## Android TV
