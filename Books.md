@@ -11,7 +11,7 @@
 * [openlibrary](https://openlibrary.org)
 * [ardbark](https://ardbark.com)
 * [sanet](https://sanet.ws/books)
-* [ebook3000](https://ebook3000.com)
+* [ebook3000](http://ebook3000.com)
 * [manybooks](https://manybooks.net)
 * [ebookbb](https://ebookbb.com)
 * [appaudiobooks](https://appaudiobooks.com/)
